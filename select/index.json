@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "カメラロール",
+  "base_artist": "Tota",
+  "createdAt": "2026-02-22T12:38:56.280989Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "カメラロール",
+      "artist": "とた",
+      "has_synced": false,
+      "path": "select/pl_01_カメラロール_とた.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "カメラロール",
+      "artist": "とた",
+      "has_synced": false,
+      "path": "select/pl_02_カメラロール_とた.txt"
+    }
+  ]
+}
